@@ -19,7 +19,7 @@ Through training a **Random Forest Regressor**, I achieved the following results
 ### 📊 Project Insights
 
 #### 1. Feature Correlations
-![Correlation Heatmap](https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/Screenshot%202026-03-15%20142309.png?raw=true)
+![Feature Correlation](https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/feature_correlation_heatmap.png?raw=true)
 
-#### 2. Top Predictive Features
-![Top Features](https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/Screenshot%202026-03-15%20142216.png?raw=true)
+#### 2. Key Price Drivers
+![Top Features](https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/top_predictive_features.png?raw=true)
