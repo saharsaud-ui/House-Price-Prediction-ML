@@ -15,8 +15,11 @@ Through training a **Random Forest Regressor**, I achieved the following results
 - **Python** (Pandas, NumPy, Scikit-Learn)
 - **Visualization:** Matplotlib & Seaborn
 - **Environment:** Google Colab
+
+### 📊 Project Insights
+
 #### 1. Feature Correlations
-![Correlation Heatmap] (https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/feature_correlation_heatmap.png?raw=true)
+![Correlation Heatmap](https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/Screenshot%202026-03-15%20142309.png?raw=true)
 
 #### 2. Top Predictive Features
-![Top Features](https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/feature_correlation_heatmap.png?raw=true)
+![Top Features](https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/Screenshot%202026-03-15%20142216.png?raw=true)
