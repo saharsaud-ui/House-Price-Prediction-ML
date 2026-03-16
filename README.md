@@ -19,4 +19,4 @@ Through training a **Random Forest Regressor**, I achieved the following results
 ![Correlation Heatmap] (https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/feature_correlation_heatmap.png?raw=true)
 
 #### 2. Top Predictive Features
-![Top Features](
+![Top Features](https://github.com/saharsaud-ui/House-Price-Prediction-ML/blob/main/feature_correlation_heatmap.png?raw=true)
